@@ -1,4 +1,4 @@
-backend-studies
-  javascript
-  nodejs
-  api-rest
+# backend-studies
+- JavaScript
+- Node.js
+- APIs REST
