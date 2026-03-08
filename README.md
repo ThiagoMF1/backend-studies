@@ -1,2 +1,4 @@
-# backend-studies
-Estudos de desenvolvimento backend com Node.js, JavaScript e APIs REST.
+backend-studies
+  javascript
+  nodejs
+  api-rest
